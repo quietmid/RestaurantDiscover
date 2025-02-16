@@ -5,7 +5,7 @@ A mock food app feature involving retrieving API endpoint based on a set of coor
 
 ## Example
 <h4>App Feature Discover and Favorite</h4>
-<img src="https://i.imgur.com/b3qzGPx.gif">
+<img src="https://i.imgur.com/b3qzGPx.gif" width="300">
 
 ## Note:
 This project is an application task, so no codes are provided. 
