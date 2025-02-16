@@ -20,6 +20,12 @@ This was a challenging but rewarding project. The Favorite tab feature was added
 - Clean Architecture for scalablity
 - Saving the state of Liked for each restaurant, pairing with its restaurant ID
 
+## Architecture
+- Codes were separated into three layers: Domain, Data, and Presentation.
+- Domain: the layer that stores the data retrieved from API, this layer should be as isolated as possible, so if the database changed, the core logic stays the same
+- Data: this is where the core logic and getting the data is placed
+- Presentation: this layer just have the most basic set up of composables. It should be as simple as possible of taking the data from domain and put in the composable.
+
 ## Possible Updates
 Things that I am looking to update this project with is the Search Tab and using my current location. 
 
