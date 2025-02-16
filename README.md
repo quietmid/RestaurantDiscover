@@ -1,7 +1,7 @@
 # RestaurantDiscover
 
 ## Overview
-A mock food app feature built in Kotlin involving retrieving API endpoint based on a set of coordinates. The product will cycle through 9 sets of coordinate and displayed up to 15 restaurants based on the location. Each restaurant will have it's name, short description, an image and a favorite button. User will be able to favorite the restaurant they want and the liked restaurant will be saved when the app reopens. On the top there are three tabs, you start with Discover and you can select Favorite and see all the restaurants that you have favorited. 
+A mock food app feature built in Kotlin involving retrieving API endpoint based on a set of coordinates. The product will cycle through 9 sets of coordinates and display up to 15 restaurants based on the location. Each restaurant will have its name, short description, an image and a favorite button. Users will be able to favorite the restaurant they want, and their liked restaurant will be saved when the app reopens. At the top there are three tabs: Discover, Favorite, and Search. The app starts with the Discover tab, and users can switch to Favorite to see all their favorited restaurants. Search tab hasn't been implemented.
 
 This was a challenging but rewarding project. The Favorite tab feature was added later but the Discover Tab was completed within 14 days of me learning Kotlin.
 
