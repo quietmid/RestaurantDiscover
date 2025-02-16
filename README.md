@@ -5,12 +5,21 @@ A mock food app feature involving retrieving API endpoint based on a set of coor
 
 ## Example
 <h4>App Feature Discover and Favorite</h4>
-<img src="https://i.imgur.com/b3qzGPx.gif" width="300">
+<img src="https://i.imgur.com/b3qzGPx.gif" width="250">
 <h4>Screenshot Discover 1</h4>
 <img src="asset/RestaurantDiscover1.png" width="200">
 <h4>Screenshot Discover 2 with a favorite restaurant</h4>
 <img src="asset/RestaurantDiscover2.png" width="200">
 <h4>Screenshot Discover 3 Favorite Tab</h4>
 <img src="asset/RestaurantDiscover3.png" width="200">
+
+## Features
+- Retrieving API endpoints with coordiantes
+- Clean Architecture for scalablity
+- Saving the state of Liked for each restaurant, pairing with its restaurant ID
+
+## Possible Updates
+Things that I am looking to update this project with is the Search Tab and using my current location. 
+
 ## Note:
 This project is an application task, so no codes are provided. 
