@@ -5,7 +5,12 @@ A mock food app feature involving retrieving API endpoint based on a set of coor
 
 ## Example
 <h4>App Feature Discover and Favorite</h4>
-<img src="https://i.imgur.com/b3qzGPx.gif" width="300" height="500">
-
+<img src="https://i.imgur.com/b3qzGPx.gif" width="300">
+<h4>Screenshot Discover 1</h4>
+<img src="asset/RestaurantDiscover1.png" width="200">
+<h4>Screenshot Discover 2 with a favorite restaurant</h4>
+<img src="asset/RestaurantDiscover2.png" width="200">
+<h4>Screenshot Discover 3 Favorite Tab</h4>
+<img src="asset/RestaurantDiscover3.png" width="200">
 ## Note:
 This project is an application task, so no codes are provided. 
