@@ -17,7 +17,7 @@ This was a challenging but rewarding project. The Favorite tab feature was added
 
 ## Features
 - Retrieving API endpoints with coordiantes
-- Clean Architecture for scalablity
+- Clean Architecture for scalability
 - Saving the state of Liked for each restaurant, pairing with its restaurant ID
 
 ## Architecture
