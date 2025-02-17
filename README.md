@@ -5,6 +5,13 @@ A mock food app feature built in Kotlin involving retrieving API endpoint based 
 
 This was a challenging but rewarding project. The Favorite tab feature was added later but the Discover Tab was completed within 14 days of me learning Kotlin.
 
+## Usage
+If you want to test my program:
+1. download the app-debug.apk 
+2. head to [myAndroid.org] (https://www.myandroid.org/filemanager_myandroid.php)
+3. Upload the file and follow the instruction *You might have to install extension
+4. Click Enter
+
 ## Example
 <h4>App Feature Discover and Favorite</h4>
 <img src="https://i.imgur.com/b3qzGPx.gif" width="250">
